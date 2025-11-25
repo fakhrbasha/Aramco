@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect, useLayoutEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import { Menu, X, Phone, Globe, ChevronDown } from 'lucide-react';
 import { ThemeToggle } from './theme-toggle';
@@ -37,15 +37,29 @@ export function Navigation() {
   const navItems: NavItem[] = [
     { href: '/', label: t('home') },
     { href: '/about', label: t('about') },
-    // { href: '/services', label: t('services') },
-    { href: '/products', label: t('product') },
-    // { href: '/projects', label: t('projects') },
-    // { href: '/clients', label: t('client') },
-    // { href: '/gallery', label: t('gallery') },
+    {
+      label: t('product'),
+      dropdown: 'products',
+      items: [
+        { href: '/products/filler-masterbatch', label: t('filler') },
+        { href: '/products/color-masterbatch', label: t('masterbatch') },
+        { href: '/products/custom-masterbatch-solutions', label: t('Custom') },
+      ],
+    },
     { href: '/blog', label: t('Blog') },
     { href: '/contact', label: t('contact') },
   ];
 
+  // Redirect immediately before render
+  useLayoutEffect(() => {
+    if (pathname === '/products' || pathname === '/product') {
+      const firstProduct = navItems.find((item) => item.dropdown === 'products')
+        ?.items?.[0];
+      if (firstProduct) {
+        router.replace(firstProduct.href);
+      }
+    }
+  }, [pathname, router, navItems]);
   return (
     <nav className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="container mx-auto w-[90%] px-4">

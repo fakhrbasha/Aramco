@@ -75,30 +75,29 @@
     }
   ]
 }
-,
-    "cta": {
-      "heading": "Ready to Secure Your Property?",
-      "description": "Get a comprehensive fire protection assessment and customized safety solution for your facility.",
-      "buttons": {
-        "contact": "Contact Us Today",
-        "about": "Learn More About ProtectionCO"
-      }
-    }
-  },
+},
    "About": {
    "hero": {
   "badge": "About Aramco",
   "button": "Get a Free Consultation",
-  "title": "Leading the Plastic Manufacturing Industry Since <span>2015</span>",
-  "subtitle": "Aramco is a leading plastic manufacturing company established in 2015, dedicated to producing high-quality plastic products for industrial and commercial applications worldwide."
+  "title": "Masterbatch Excellence, Made in <span>Egypt</span>"
 },
 "story": {
   "heading": "Our Story",
-  "paragraphs": [
-    "At Aramco, innovation meets precision. Since our founding in 2015, we’ve been committed to providing durable and sustainable plastic products that serve industries across the globe.",
-    "With advanced manufacturing facilities and a highly skilled team, Aramco has become a trusted partner for businesses seeking high-performance plastic solutions that meet international standards.",
-    "We take pride in our dedication to quality, sustainability, and continuous improvement — shaping a better, more efficient world through advanced plastic manufacturing."
-  ]
+  "subTitle":"A journey of innovation, excellence, and unwavering commitment to quality",
+  "Beginning":"2015 The Beginning",
+  "Evolution":"Rapid Evolution",
+  "Solutions":"Customer-Centric Solutions",
+  "Innovation":"Eco-Friendly Innovation",
+  "Partners":"Success Partners",
+  "par":"True success begins with product excellence — but it doesn't end there. We continuously evolve through global manufacturing standards, innovation, and strategic investments in state-of-the-art technology.",
+  "paragraph_1": 
+    "Aramco Trading & Industry was founded in 2015 by Mr. Osama Hosni, and has rapidly established itself as one of the leading masterbatch manufacturers in Egypt and the Middle East."
+  ,
+  "par2":"From the very beginning, our company has been driven by a bold vision: to deliver high-quality, reliable, and innovative masterbatch solutions tailored to meet the evolving needs of local and international markets. What started as a small operation has grown into a fully integrated industrial powerhouse — thanks to our ongoing commitment to global manufacturing standards, continuous process improvements, and significant investments in state-of-the-art production technology.",
+  "par3": "At Aramco, we believe that true success begins with product excellence — but it doesn’t end there. We work closely with our clients to provide customized solutions across various industries that rely on masterbatch, including plastics, packaging, household goods, and more. Our expert team also offers technical support and production consulting to ensure optimal performance within our clients’ manufacturing environments.",
+  "par4": "Environmental sustainability is at the heart of our operations. We are committed to eco-friendly practices across all stages of production, minimizing waste, optimizing energy use, and incorporating safe and recyclable raw materials whenever possible.",
+"par5": "We don’t just supply materials — we aim to be true success partners for our customers, standing beside them as they innovate, grow, and lead in their respective markets."
 }
 ,
     "missionVision": {
@@ -107,7 +106,7 @@
       "cards": [
         {
           "title": "At Aramco Trading & Industry",
-          "description": "we are dedicated to delivering high-quality masterbatch products with a strong focus on innovation, sustainability, and customer satisfaction. We achieve this by utilizing the latest manufacturing technologies and providing exceptional after-sales support, ensuring long-term value and reliability for our clients across various industries."
+          "description": "At Aramco Trading & Industry, we are dedicated to delivering high-quality masterbatch products with a strong focus on innovation, sustainability, and customer satisfaction. We achieve this by utilizing the latest manufacturing technologies and providing exceptional after-sales support, ensuring long-term value and reliability for our clients across various industries."
         },
         {
           "title": "Sustainable Masterbatch Innovation",
@@ -115,49 +114,34 @@
         }
       ]
     },
-   "profile": {
-  "heading": "Company Profile",
-  "description": "Aramco was founded to become a leading manufacturer and supplier of high-quality plastic products, serving diverse industries with innovative and sustainable solutions.",
-  "features": [
-    {
-      "title": "Our Specialization",
-      "description": "We specialize in producing a wide range of plastic products for industrial, commercial, and domestic applications — including pipes, containers, packaging materials, and custom-engineered plastic components."
-    },
-    {
-      "title": "Global Partnerships",
-      "description": "Aramco collaborates with trusted global partners and suppliers to ensure the highest quality of raw materials and advanced production technologies."
-    },
-    {
-      "title": "Standards Commitment",
-      "description": "We strictly adhere to international manufacturing standards, ensuring every product meets the highest benchmarks of quality, performance, and sustainability."
-    }
-  ],
-  "services": {
-    "title": "Our Services Include",
-    "items": [
-      "Product Design & Development",
-      "Custom Plastic Manufacturing",
-      "Injection & Blow Molding",
-      "Quality Testing & Inspection",
-      "Packaging & Distribution",
-      "After-Sales Support"
-    ]
+
+ "values" :{
+  "foundation":"Our Foundation",
+  "heading":"Our Core Values",
+  "description": "At Aramco, our core values guide everything we do. We are committed to excellence, quality, innovation, and sustainability in every project, ensuring we deliver high-quality solutions while fostering long-term partnerships with our clients and stakeholders.",
+  "quality" : {
+  "title":"Quality",
+  "description":" We uphold the highest standards of quality at every stage of production to ensure reliable and consistent results."
   },
-  "quality": {
-    "title": "Quality Commitment",
-    "description": "Aramco is committed to providing premium plastic products that meet international standards, ensuring durability, precision, and complete customer satisfaction."
+  "innovation":{
+"title":"Innovation",
+"description":" We continuously develop advanced solutions that meet evolving market demands and exceed customer expectations."
+  },
+  "sustainability":{
+    "title":"Sustainability",
+    "description":"We promote responsible environmental practices to preserve resources and minimize our ecological footprint."
+  },
+  "partnership":{
+    "title":"Partnership",
+    "description":"We believe in growing with our clients, fostering long-term relationships built on trust and collaboration."
+  },
+  "reliability":{
+    "title":"Reliability",
+    "description":" We deliver on our promises with dependable products and services that our customers can trust every time."
   }
+
+
 },
-"policy": {
-  "heading": "Management Policy",
-  "description": "Our commitment to excellence and sustainability drives every stage of our production process.",
-  "paragraphs": [
-    "Aramco is dedicated to manufacturing and supplying world-class plastic products through innovation, precision, and advanced engineering. Our processes cover product design, molding, quality control, and delivery with a strong focus on customer satisfaction.",
-    "We comply with all applicable international standards and environmental regulations, ensuring our operations are safe, sustainable, and socially responsible.",
-    "Aramco continually enhances its quality and environmental management systems through continuous improvement, employee training, and technological innovation — ensuring our customers receive only the best."
-  ]
-}
-,
    "cta": {
   "heading": "Partner with Aramco",
   "description": "Join global clients who trust Aramco for innovative, high-quality plastic manufacturing solutions built to last.",
@@ -178,13 +162,10 @@
     "product": "Products",
     "projects": "Projects",
     "client": "Our Client",
-    "careers": "Careers",
     "contact": "Contact US",
-    "fire" : "Fire-Protection System Solution ",
-    "Fire-Alarms-Systems" : "Fire Alarms Systems",
-    "maintenance":"Regular Maintenance",
-    "protection-fire-product" : "Protection Fire Products",
-    "global-fire" : "Global-Fire Equipment",
+    "filler":"filler-masterbatch",
+    "masterbatch":"Color Masterbatch by Aramco",
+    "Custom":"Custom Masterbatch Solutions by Aramco",
     "switch": "العربية"
   },
 
@@ -333,11 +314,11 @@
       },
       "hours": {
         "title": "Business Hours",
-        "lines": ["Sunday - Thursday: 8:00 AM - 6:00 PM", "Friday - Saturday: 9:00 AM - 4:00 PM"]
+        "lines": ["Saturday - Thursday: 9:00 AM - 5:00 PM"]
       },
       "emergency": {
-        "title": "24/7 Emergency Support",
-        "description": "For urgent fire protection emergencies, call our 24/7 hotline",
+        "title": "Saturday to Thursday",
+        "description": "Saturday to Thursday 9am – 5pm",
         "phone": "+20 112 014 1044"
       }
     },
@@ -380,400 +361,21 @@
       "about": "Learn More About Us"
     }
   },
-  "browse": {
-    "heading": "Browse Our Products",
-    "subheading" : "Explore our high-quality fire protection systems and equipment designed to ensure maximum safety and reliability",
-    "view": "View Details",
-    "products": {
-      "extinguishers": "Fire Extinguishers",
-      "detectors": "Smoke Detectors",
-      "panels": "Fire Alarm Panels",
-      "sprinklers": "Sprinkler Systems"
-    }
-  },
-  "FireSystemProtection":{
-
-  "hero": {
-    "title": "Fire Protection System Solutions",
-    "description": "Integrated, intelligent, and reliable fire protection systems engineered for maximum safety and performance.",
-    "buttons": {
-      "consultation": "Get a Free Consultation",
-      "projects": "View Our Work"
-    }
-  },
-  "process": {
-    "heading": "Our Implementation Process",
-    "description": "A systematic approach ensuring successful deployment of your fire protection system"
-  },
-  "processSteps": [
-    { "step": "01", "title": "Site Assessment", "description": "Comprehensive evaluation of your facility's fire protection needs and risk factors" },
-    { "step": "02", "title": "System Design", "description": "Custom engineering design tailored to your specific requirements and local codes" },
-    { "step": "03", "title": "Installation", "description": "Professional installation by certified technicians with minimal disruption" },
-    { "step": "04", "title": "Commissioning", "description": "Complete system testing and commissioning to ensure optimal performance" },
-    { "step": "05", "title": "Training", "description": "Comprehensive training for your staff on system operation and maintenance" },
-    { "step": "06", "title": "Support", "description": "Ongoing maintenance and support to ensure continued system reliability" }
-  ],
-  "why": {
-    "heading": "Why Choose Our Fire Protection Systems?",
-    "description": "Trusted by leading organizations for innovative and reliable fire protection solutions"
-  },
-  "features": [
-    { "icon": "Shield", "title": "Integrated Approach", "desc": "Complete system integration ensuring all components work seamlessly together." },
-    { "icon": "Settings", "title": "Custom Engineering", "desc": "Tailored designs specific to your building and operational needs." },
-    { "icon": "Users", "title": "Expert Team", "desc": "Certified engineers and technicians with proven experience." },
-    { "icon": "Award", "title": "Proven Results", "desc": "Successful installations across multiple sectors and environments." },
-    { "icon": "CheckCircle", "title": "Quality Assurance", "desc": "Rigorous testing ensures peak performance and long-term reliability." },
-    { "icon": "Settings", "title": "Ongoing Support", "desc": "Continuous maintenance and support to keep your system ready 24/7." }
-  ],
-  "cta": {
-    "heading": "Ready to Upgrade Your Fire Protection System?",
-    "description": "Let our expert engineers design and implement a complete fire protection solution tailored to your building’s safety needs.",
-    "buttons": {
-      "consultation": "Book a Consultation",
-      "maintenance": "Learn About Maintenance"
-    }
-  }
-},
-  "fireAlarm": {
-    "heroTitle": "Fire Alarm Systems",
-    "heroSubtitle": "Intelligent fire detection and alarm solutions providing early warning and life safety for all environments.",
-    "getQuote": "Get Fire Alarm Quote",
-    "maintenance": "Maintenance Services",
-    "typesTitle": "Fire Alarm System Types",
-    "typesSubtitle": "Choose from our range of fire alarm systems designed for different building sizes and applications.",
-    "keyFeatures": "Key Features",
-    "bestFor": "Best For",
-    "detectionTitle": "Detection Technologies",
-    "detectionSubtitle": "Advanced detection technologies ensuring rapid and accurate fire identification.",
-    "featuresTitle": "Advanced System Features",
-    "featuresSubtitle": "Our fire alarm systems include comprehensive features for complete life safety protection.",
-    "installationTitle": "Professional Installation Process",
-    "installationSubtitle": "Certified technicians ensure precise installation and testing for maximum system performance.",
-    "installationSteps": ["Site Survey", "System Design", "Installation", "Testing"],
-    "installationDescriptions": [
-      "Detailed assessment of site and fire safety needs.",
-      "Custom design following codes and requirements.",
-      "Professional installation by experts.",
-      "Full testing and commissioning before delivery."
-    ],
-    "ctaTitle": "Protect Your Building with Advanced Fire Alarms",
-    "ctaSubtitle": "Don’t wait for a fire emergency — install a reliable alarm system today to safeguard lives and assets.",
-    "ctaQuote": "Request a Quote",
-    "ctaMaintenance": "Maintenance Services",
-    "systems": [
-      {
-        "title": "Conventional Fire Alarm Systems",
-        "desc": "Reliable and cost-effective fire alarm systems ideal for smaller buildings and straightforward applications.",
-        "features": ["Zone-based Detection", "Manual Call Points", "Audible/Visual Alarms", "Battery Backup"],
-        "apps": ["Small Offices", "Retail Stores", "Restaurants", "Small Warehouses"]
-      },
-      {
-        "title": "Addressable Fire Alarm Systems",
-        "desc": "Advanced intelligent fire alarm systems providing precise location identification and enhanced control.",
-        "features": ["Individual Device Addressing", "Precise Location ID", "Advanced Diagnostics", "Remote Monitoring"],
-        "apps": ["Large Buildings", "Hospitals", "Hotels", "Shopping Centers"]
-      },
-      {
-        "title": "Wireless Fire Alarm Systems",
-        "desc": "Flexible wireless fire alarm solutions perfect for heritage buildings and retrofit applications.",
-        "features": ["No Wiring Required", "Easy Installation", "Mesh Network", "Battery Powered"],
-        "apps": ["Historic Buildings", "Temporary Structures", "Retrofit Projects", "Remote Locations"]
-      }
-    ],
-    "detectionTypes": [
-      { "name": "Smoke Detectors", "desc": "Advanced photoelectric and ionization smoke detection technology" },
-      { "name": "Heat Detectors", "desc": "Fixed temperature and rate-of-rise heat detection systems" },
-      { "name": "Flame Detectors", "desc": "UV/IR flame detection for rapid fire identification" },
-      { "name": "Gas Detectors", "desc": "Specialized gas detection for industrial applications" }
-    ],
-    "systemFeatures": [
-      "Early Fire Detection",
-      "Mass Notification",
-      "Emergency Communication",
-      "Evacuation Management",
-      "Integration with Building Systems",
-      "Remote Monitoring Capability",
-      "Maintenance Alerts",
-      "Compliance Reporting"
-    ]
-  }
-,"maintenance": {
-    "heroTitle": "Regular Maintenance",
-    "heroSubtitle": "Keep your fire protection systems operating at peak performance with our comprehensive maintenance services.",
-    "heroAlt": "Fire System Maintenance",
-    "heroBtn1": "Request Maintenance",
-    "heroBtn2": "View All Services",
-
-    "servicesTitle": "Our Maintenance Services",
-    "servicesSubtitle": "Comprehensive maintenance solutions to ensure your fire protection systems remain reliable and compliant.",
-
-    "includes": "Includes",
-    "benefits": "Benefits",
-
-    "checklistTitle": "Comprehensive Maintenance Checklist",
-    "checklistSubtitle": "Our thorough maintenance process covers all aspects of your fire protection systems.",
-
-    "emergencyTitle": "24/7 Emergency Support",
-    "emergencySubtitle": "Fire protection systems can't wait for business hours. Our emergency support team is available 24/7 to respond to critical issues.",
-
-    "emergencyHotline": "Emergency Hotline: +20 101 1006 205",
-    "emergencyBtn": "Schedule Maintenance",
-
-    "ctaTitle": "Don’t Wait for System Failure",
-    "ctaSubtitle": "Regular maintenance ensures reliability, safety, and compliance. Let’s keep your fire protection systems always ready.",
-    "ctaBtn1": "Get Maintenance Quote",
-    "ctaBtn2": "View All Services",
-
-    "services": [
-      {
-        "title": "Preventive Maintenance",
-        "description": "Scheduled maintenance to prevent system failures and ensure optimal performance.",
-        "frequency": "Monthly/Quarterly",
-        "includes": [
-          "System Inspection",
-          "Component Testing",
-          "Performance Verification",
-          "Documentation"
-        ],
-        "benefits": [
-          "Prevents Failures",
-          "Extends Equipment Life",
-          "Maintains Compliance",
-          "Reduces Costs"
-        ]
-      },
-      {
-        "title": "Emergency Repairs",
-        "description": "24/7 emergency repair services to restore your fire protection systems quickly.",
-        "frequency": "As Needed",
-        "includes": [
-          "Rapid Response",
-          "Fault Diagnosis",
-          "Component Replacement",
-          "System Restoration"
-        ],
-        "benefits": [
-          "Minimal Downtime",
-          "Expert Technicians",
-          "Genuine Parts",
-          "Quick Resolution"
-        ]
-      },
-      {
-        "title": "Annual Inspections",
-        "description": "Comprehensive annual inspections to ensure compliance with local fire codes.",
-        "frequency": "Annually",
-        "includes": [
-          "Full System Testing",
-          "Code Compliance Check",
-          "Performance Report",
-          "Certification"
-        ],
-        "benefits": [
-          "Legal Compliance",
-          "Insurance Requirements",
-          "Safety Assurance",
-          "Official Documentation"
-        ]
-      }
-    ],
-
-    "checklist": [
-      "Fire Alarm Panel Testing",
-      "Smoke Detector Cleaning",
-      "Sprinkler Head Inspection",
-      "Fire Pump Testing",
-      "Emergency Lighting Check",
-      "Exit Sign Verification",
-      "Fire Extinguisher Service",
-      "CCTV System Check",
-      "Battery Backup Testing",
-      "Documentation Update"
-    ],
-
-    "emergencyCards": [
-      {
-        "title": "Rapid Response",
-        "desc": "Average response time under 2 hours"
-      },
-      {
-        "title": "Expert Technicians",
-        "desc": "Certified professionals available 24/7"
-      },
-      {
-        "title": "Priority Service",
-        "desc": "Emergency calls get highest priority"
-      }
-    ]
-  },
   "services": {
-    "pageTitle": "Services",
-    "heroBadge": "Our Services",
-    "heroTitle": "Comprehensive Fire Protection &",
-    "heroHighlight": "Safety Solutions",
-    "heroSubtitle": "From design and installation to maintenance and support, Protectionprovides complete fire protection and security solutions tailored to your specific needs.",
-    "coreTitle": "Our Core Services",
-    "coreSubtitle": "Specialized solutions designed to protect lives and property with cutting-edge technology and expertise.",
-    "industriesTitle": "Industries We Serve",
-    "industriesSubtitle": "Our expertise spans across various industries, providing tailored solutions for each sector's unique requirements.",
-    "processTitle": "Our Process",
-    "processSubtitle": "A systematic approach ensuring quality delivery from initial consultation to ongoing support.",
-    "ctaTitle": "Ready to Protect Your Assets?",
-    "ctaSubtitle": "Contact our experts today for a comprehensive consultation and customized fire protection solution.",
-    "ctaBtn1": "Get Free Consultation",
-    "ctaBtn2": "View Our Work",
-    "items": [
-      {
-        "icon": "Flame",
-        "title": "Fire Fighting Systems",
-        "description": "Complete firefighting solutions including sprinkler systems, foam systems, and fire suppression.",
-        "features": ["Wet & Dry Sprinkler Systems", "Foam Fire Suppression", "CO2 Fire Suppression", "FM200 Systems", "Water Mist Systems", "Fire Hydrant Systems"]
-      },
-      {
-        "icon": "Bell",
-        "title": "Fire Alarm Systems",
-        "description": "Advanced fire detection and alarm systems for early warning and emergency response.",
-        "features": ["Addressable Systems", "Conventional Systems", "Smoke Detection", "Heat Detection", "Manual Call Points", "Emergency Voice Systems"]
-      },
-      {
-        "icon": "Camera",
-        "title": "CCTV & Security Systems",
-        "description": "Comprehensive security solutions with advanced surveillance and monitoring capabilities.",
-        "features": ["IP Cameras", "Analog CCTV", "Access Control", "Video Management", "Remote Monitoring", "Security Integration"]
-      },
-      {
-        "icon": "Settings",
-        "title": "Installation & Commissioning",
-        "description": "Professional installation and commissioning ensuring optimal system performance.",
-        "features": ["System Design", "Installation", "Testing", "Commissioning", "Documentation", "Training"]
-      },
-      {
-        "icon": "Wrench",
-        "title": "Maintenance & Support",
-        "description": "Ongoing maintenance and support services to ensure continuous reliability.",
-        "features": ["Preventive Maintenance", "Emergency Repairs", "Upgrades", "24/7 Support", "Spare Parts", "Performance Monitoring"]
-      },
-      {
-        "icon": "Users",
-        "title": "Training & Consultation",
-        "description": "Expert training and consultation for fire safety and system operation.",
-        "features": ["Safety Training", "Operation Training", "Emergency Response", "Consultation", "Compliance Review", "Risk Assessment"]
-      }
-    ],
-    "industries": [
-      { "name": "Industrial Facilities", "icon": "Building" },
-      { "name": "Commercial Buildings", "icon": "Building" },
-      { "name": "Healthcare Facilities", "icon": "Shield" },
-      { "name": "Educational Institutions", "icon": "Users" },
-      { "name": "Hospitality Sector", "icon": "Building" },
-      { "name": "Government Buildings", "icon": "Shield" }
-    ],
-    "process": [
-      { "step": "01", "title": "Consultation & Assessment", "description": "We analyze your requirements and conduct thorough site assessments." },
-      { "step": "02", "title": "Design & Engineering", "description": "Our engineers design solutions that comply with all standards." },
-      { "step": "03", "title": "Installation & Testing", "description": "Professional installation followed by comprehensive testing." },
-      { "step": "04", "title": "Support & Maintenance", "description": "Ongoing support and maintenance for reliability." }
-    ]
-  }
+     
+  },
 
-  ,
- "product": {
-    "hero": {
-      "alt": "Fire protection valves",
-      "title": "waiting",
-      "subtitle": "waiting",
-      "button": "View Gallery"
-    },
-    "catalog": {
-      "title": "Our Featured Products",
-      "subtitle": "Explore our technical product specs, certifications, and download PDF catalogs directly.",
-      "view": "View Catalog",
-      "download": "Download PDF",
-      "close": "Close"
-    },
-    "why": {
-  "title": "Why Choose Aramco Products?",
-  "description": "At Aramco, we combine advanced engineering with sustainable manufacturing to deliver reliable, high-performance industrial solutions trusted worldwide.",
-  "cards": {
-    "quality": {
-      "title": "Unmatched Quality & Innovation",
-      "desc": "Each product is designed with precision and tested under the highest standards to ensure long-term durability and efficiency."
-    },
-    "safety": {
-      "title": "Sustainability & Safety First",
-      "desc": "We integrate eco-friendly processes and materials to promote environmental responsibility without compromising performance or safety."
-    },
-    "support": {
-      "title": "Expert Engineering Support",
-      "desc": "Our specialized technical team provides continuous support — from concept and design to production and optimization."
-    }
+  "product":{
+
+  },
+  "browse":{
+    "heading":"Our Product",
+    "subheading":"Explore our comprehensive range of masterbatch solutions designed for excellence in plastic manufacturing.",
+    "filler":"Filler Masterbatch",
+    "disFilter":"Filler masterbatch is widely used in the production of plastic products. It consists of a blend of calcium carbonate (CaCO₃), plastic resin pellets, and specialized additives tailored to meet customer requirements",
+    "filler1":"Color Masterbatch",
+    "colorDisF":" Color masterbatch is a plastic compound used to impart vibrant, accurate, and consistent coloration to plastic products. It is made by blending high-quality pigments with a base resin and special additives.",
+    "Custom":"Custom Masterbatch",
+    "customDis":" Custom masterbatch is a tailor-made formulation developed to meet your exact product requirements — whether it's color, performance, or special functionality. At Aramco."
   }
 }
-,
-    "cta": {
-      "title": "Need help choosing the right product?",
-      "subtitle": "Contact us and our technical team will guide you to the best firefighting solutions for your project.",
-      "button": "Contact Us Now"
-    }
-  },
-  "Projects": {
-    "hero": {
-      "title": "Our Projects",
-      "description": "Explore our achievements across various sectors, where quality and excellence define every project we deliver.",
-      "scroll": "Scroll Down ↓"
-    },
-    "moreProjects": {
-      "title": "More Projects & Clients",
-      "description": "We have successfully completed numerous fire protection projects across Egypt. Visit our galleries and see our satisfied clients.",
-      "gallery": "Show Protection Gallery",
-      "clients": "Our Clients"
-    }
-  },
-    "Factory": {
-    "section": {
-      "tag": "PROTECTION",
-      "title": "Our Fire Safety Projects",
-      "description": "Showcasing our fire safety systems implemented in major industrial and commercial sites across Egypt."
-    },
-    "elabd": {
-      "label": "El Abd Factory",
-      "title": "El Abd Factory",
-      "location": "Located in Sadat City",
-      "description": "A leading sweets manufacturer where we executed a full fire protection system using FM & UL approved products.",
-      "features": {
-        "monitoring": "Fire Safety Monitoring",
-        "coverage": "Equipment Coverage Across Departments",
-        "compliance": "Compliance with Safety Standards",
-        "safety": "Employee & Facility Safety"
-      },
-      "button": "Explore El Abd Factory →"
-    },
-    "ritzy": {
-      "label": "Ritzy Mall",
-      "title": "Ritzy Mall",
-      "location": "Located in Sheikh Zayed",
-      "description": "Implemented advanced fire protection systems ensuring full safety for visitors and staff.",
-      "features": {
-        "monitoring": "Fire Safety Monitoring",
-        "coverage": "Equipment Coverage in All Areas",
-        "compliance": "Compliance with Safety Standards",
-        "safety": "Visitor & Staff Safety"
-      },
-      "button": "Explore Ritzy Mall →"
-    }
-  },
-   "Gallery": {
-    "hero": {
-      "title": "Gallery",
-      "highlight": "Protection",
-      "subtitle": "Discover our integrated fire protection systems and safety installations Sadat City."
-    },
-    "gallery": {
-      "heading": "Project Gallery",
-      "description": "A showcase of our fire safety installations, advanced technologies, and project implementations across the facility."
-    },
-    "videos": {
-      "heading": "Project Videos",
-      "description": "Explore the project in motion — our fire protection systems, testing phases, and installation procedures."
-    }
-  }}

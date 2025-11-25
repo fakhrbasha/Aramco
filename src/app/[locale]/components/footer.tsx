@@ -65,7 +65,7 @@ export function Footer() {
                   href="/blog"
                   className="text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Blog
+                  {t('links.blog')}
                 </Link>
               </li>
             </ul>
